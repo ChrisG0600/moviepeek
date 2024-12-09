@@ -11,8 +11,7 @@
     {{-- Test Sample Pages Features here --}}
     <section id="wrapper">
         <div class="h-96 w-96 bg-sky-500 flex justify-center items-center">
-            <h5 class="text-lg text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam expedita amet dicta consectetur eius excepturi possimus minima voluptatum,
-                maiores explicabo.</h5>
+            <h5 class="text-lg text-center">Movie Peek</h5>
         </div>
     </section>
 </body>
